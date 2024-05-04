@@ -1,5 +1,3 @@
-# final_project1
-Dosa restaurant API
 My Dosa Restaurant API
 
 Overview
@@ -25,7 +23,7 @@ To get started with the Dosa Restaurant API, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/shannu15/finalterm_project.git
+git clone https://github.com/shannu15/final_project
 Install dependencies:
 bash
 Copy code
@@ -59,3 +57,4 @@ Contributions to this project are welcome! If you encounter any issues or have s
 License
 
 This project is licensed under the MIT License.
+
